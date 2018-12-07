@@ -1,2 +1,2 @@
 # laravel
-laravel framework
+https://github.com/theworlddecoded/laravel/wiki
